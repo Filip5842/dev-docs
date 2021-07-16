@@ -65,6 +65,8 @@ Here's a non-exhaustive list of possible code editors for use with the micro:bit
 
 - [Python](https://python.microbit.org)
 
+- [MatDeck Free](https://labdeck.com/python/)
+
 - [App Inventor](http://iot.appinventor.mit.edu/#/microbit/microbitintro)
 
 - [Arduino IDE (C++)](https://learn.adafruit.com/use-micro-bit-with-arduino/overview)
